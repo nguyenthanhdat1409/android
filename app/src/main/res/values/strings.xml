@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="Email">email\n</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="Login">Login\n</string>
+    <string name="Login1">Login</string>
+    <string name="register">Register</string>
+    <string name="register1">Register</string>
+    <string name="Click_to_login">Click to login</string>
+    <string name="Click_to_register">Click to register</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+</resources>
